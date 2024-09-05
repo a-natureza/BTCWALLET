@@ -22,7 +22,7 @@
 
 1. Clone o repositório:
     ```bash
-    git clone 
+    git clone https://github.com/a-natureza/BTCWALLET.git
     cd BTCWALLET
     ```
 
